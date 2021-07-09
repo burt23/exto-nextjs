@@ -32,9 +32,11 @@ seo:
 layout: page
 ---
 
+After selling my first photograph at Austin Community College downtown, I realized there could be a future in art. It wasn't till many years later that I would be running a wedding company called SF City Hall Photo, only to eventually sell it while attending the coding bootcamp Hack Reactor. It would be many years again till the camera would be thrust back into my life as a way to capture life in a variety of forms.  
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+The best part of photography for me is the connection with my subjects. Be them people or mountains, being present and open is key to capturing those timeless moments. Photos can not only bring us back in time, they can invoke curiosity and spark ideas in the beholder. As photographs continue to inspire me, I hope to inspire others through my art and creativity. 
 
+- Michael Torres
 *Thank You for reading!*
