@@ -1,5 +1,5 @@
 ---
-title: Project Title 3
+title: Product 
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
@@ -7,14 +7,14 @@ thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/3.jpg
 image_alt: A yellow retro telephone on a yellow background
 seo:
-  title: Project Title 3
+  title: Product 
   description: This is the project 3 description
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 3
+      value: Product 
       keyName: property
     - name: 'og:description'
       value: This is the project 3 description
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 3
+      value: Product 
     - name: 'twitter:description'
       value: This is the project 3 description
     - name: 'twitter:image'

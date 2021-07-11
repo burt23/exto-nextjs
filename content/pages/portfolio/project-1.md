@@ -1,5 +1,5 @@
 ---
-title:  
+title:  Engagement Shoots
 subtitle: On location shoots 
 date: '2019-05-10'
 thumb_image: images/IMG_6900_THUMB.jpg

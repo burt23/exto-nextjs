@@ -21,8 +21,8 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What We Do
-    subtitle: An optional subtitle of the section
+    title: Services offered 
+    subtitle: Just to name a few 
     col_number: two
     is_numbered: true
     grid_items:
