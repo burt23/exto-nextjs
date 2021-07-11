@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Photography and Photobooths'
     content: >-
-      Offering full wedding coverage and engagements, as well as portraiture and event photography. Videography is also available, as well as renting out our custom in-house built Photobooth, featuring a AlienBees Ringlight for ultra-glam photos. 
+      Offering full wedding coverage and engagements, as well as portraiture and event photography. Videography is also available, as well as renting out our custom in-house built Photobooth, featuring a stobe AlienBees Ringlight for high quality beauty lighting. 
     actions:
       - label: Let's talk
         url: /contact
@@ -16,7 +16,7 @@ sections:
     layout_style: mosaic
     # title: Portfolio
     # subtitle: Past Photography
-    projects_number: 6
+    projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services

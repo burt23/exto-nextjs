@@ -2,9 +2,9 @@
 title: Weddings 
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: images/2_thumb.jpg
+thumb_image: images/multicolorEdits_THUMB.jpg
 thumb_image_alt: An orange on a blue background
-image: images/2.jpg
+image: images/multicolorEdits.jpg
 image_alt: An orange on a blue background
 seo:
   title: Weddings 
@@ -20,7 +20,7 @@ seo:
       value: This is the project 2 description
       keyName: property
     - name: 'og:image'
-      value: images/2.jpg
+      value: images/multicolorEdits.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: This is the project 2 description
     - name: 'twitter:image'
-      value: images/2.jpg
+      value: images/weddingDress.jpg
       relativeUrl: true
 layout: project
 ---

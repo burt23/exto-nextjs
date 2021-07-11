@@ -2,9 +2,9 @@
 title: Events 
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
-thumb_image: images/4_thumb.jpg
+thumb_image: images/weddingDress_THUMB.jpg
 thumb_image_alt: A table tennis racket on a pink background
-image: images/4.jpg
+image: images/weddingDress.jpg
 image_alt: A table tennis racket on a pink background
 seo:
   title: Events 
@@ -20,7 +20,7 @@ seo:
       value: This is the project 4 description
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/weddingDress.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,17 @@ seo:
     - name: 'twitter:description'
       value: This is the project 4 description
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/weddingDress.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: Events 
+    - name: 'twitter:description'
+      value: This is the project 4 description
+    - name: 'twitter:image'
+      value: images/weddingDress.jpg
       relativeUrl: true
 layout: project
 ---

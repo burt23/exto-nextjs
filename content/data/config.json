@@ -53,10 +53,10 @@
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "label": "Yelp",
+                "url": "https://yelp.com/",
                 "style": "icon",
-                "icon": "dribbble",
+                "icon": "yelp",
                 "new_window": true
             }
         ]
