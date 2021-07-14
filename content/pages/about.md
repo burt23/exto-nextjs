@@ -1,7 +1,7 @@
 ---
 title: About Us
-subtitle: It all started in Austin.
-image: images/about.jpg
+subtitle: It all started in Austin
+image: images/me.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
@@ -38,9 +38,9 @@ After selling my first photograph at Austin Community College downtown, I realiz
 
 The best part of photography for me is the connection with my subjects. Be them people or mountains, being present and open is key to capturing those timeless moments. Photos can not only bring us back in time, they can invoke curiosity and spark ideas in the beholder. As photographs continue to inspire me, I hope to inspire others through my art and creativity. 
 
--Michael Torres
+-Mike
 
 
 
 <br >
-*Thank You for reading!*
+<h3> Thank You for reading! </h3>

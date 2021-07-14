@@ -7,7 +7,7 @@ sections:
     content: >-
       Hi there! Thank you so much for your interest in working together. Please
       fill the contact form below or send us an email at
-      [x_of_ix@protonmail.com](mailto:x_of_ix@protonmail.com).
+      [studio@xo9.io](mailto:studio@xo9.io).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -26,9 +26,12 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Weddings 
+          - Photobooth Rentals 
+          - Portraits 
+          - Engagement Shoots 
+          - Event Photography 
+          - Other 
       - input_type: textarea
         name: message
         label: Message

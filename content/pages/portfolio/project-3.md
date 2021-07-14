@@ -1,20 +1,20 @@
 ---
-title: Produc 
-subtitle: Optional Project Subtitle
+title: Portraits 
+subtitle: capturing essence 
 date: '2019-04-08'
 thumb_image: images/portraits_THUMB.jpg
 thumb_image_alt: A portrait of a gentleman showcasing xo9 portrait services. 
 image: images/portraits.jpg
 image_alt: A yellow retro telephone on a yellow background
 seo:
-  title: Produc 
+  title: Portraits 
   description: Quality portraiture offered at great rates!
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Produc 
+      value: Portraits 
       keyName: property
     - name: 'og:description'
       value: Quality portraiture offered at great rates!
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Produc 
+      value: Portraits 
     - name: 'twitter:description'
       value: Quality portraiture offered at great rates!
     - name: 'twitter:image'
