@@ -39,20 +39,6 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/xo986353182",
-                "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon": "instagram",
-                "new_window": true
-            },
-            {
                 "label": "Yelp",
                 "url": "https://www.yelp.com/biz/xo9-studio-austin",
                 "style": "icon",
